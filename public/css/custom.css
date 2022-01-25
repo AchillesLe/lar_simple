@@ -1,0 +1,35 @@
+.col {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  font-size: 25px;
+  text-align: center;
+}
+
+.title_confirm {
+  font-size: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+.first,
+.last {
+  padding: 5px 15px;
+}
+
+.first {
+    text-align: right;
+}
+
+.last {
+  text-align: left;
+}
+
+#my-table {
+  margin: 0 auto !important;
+  align-self: center !important;
+  border: 1px solid !important;
+}
+
